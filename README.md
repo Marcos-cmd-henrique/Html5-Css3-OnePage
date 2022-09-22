@@ -1,21 +1,21 @@
 # Html5-Css3-OnePage
-Criando page responsiva. 
+Criando page responsiva conforme curso do Prof José de Assis. 
 
-###Links Indicados 
+### Links Indicados 
 
-###Planejamento 
+### Planejamento 
 [cetic](https://www.cetic.br/) 
 
-###Wireframe
+### Wireframe
 [draw](https://app.diagrams.net/) 
 
-###Personal Designer
+### Personal Designer
 [Matheus da Costa](http://matheusdacosta.art.br/)
 
-###Tipografia
+### Tipografia
 [Google Fonts](https://fonts.google.com/)
 
-###Imagens 
+### Imagens 
 
 [pixabay](https://pixabay.com/pt/)
 
